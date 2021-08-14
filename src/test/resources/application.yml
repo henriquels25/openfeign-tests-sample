@@ -1,0 +1,2 @@
+clients:
+  age.url: http://localhost:${wiremock.server.port}/age-api
